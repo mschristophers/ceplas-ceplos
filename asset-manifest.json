@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ceplas-ceplos/static/css/main.c4cacc22.chunk.css",
+    "main.js": "/ceplas-ceplos/static/js/main.3c55ea03.chunk.js",
+    "main.js.map": "/ceplas-ceplos/static/js/main.3c55ea03.chunk.js.map",
+    "runtime-main.js": "/ceplas-ceplos/static/js/runtime-main.91620c95.js",
+    "runtime-main.js.map": "/ceplas-ceplos/static/js/runtime-main.91620c95.js.map",
+    "static/js/2.66e63762.chunk.js": "/ceplas-ceplos/static/js/2.66e63762.chunk.js",
+    "static/js/2.66e63762.chunk.js.map": "/ceplas-ceplos/static/js/2.66e63762.chunk.js.map",
+    "index.html": "/ceplas-ceplos/index.html",
+    "precache-manifest.f3b5ef6c501e77f30c5eb710536a762c.js": "/ceplas-ceplos/precache-manifest.f3b5ef6c501e77f30c5eb710536a762c.js",
+    "service-worker.js": "/ceplas-ceplos/service-worker.js",
+    "static/css/main.c4cacc22.chunk.css.map": "/ceplas-ceplos/static/css/main.c4cacc22.chunk.css.map",
+    "static/js/2.66e63762.chunk.js.LICENSE.txt": "/ceplas-ceplos/static/js/2.66e63762.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91620c95.js",
+    "static/js/2.66e63762.chunk.js",
+    "static/css/main.c4cacc22.chunk.css",
+    "static/js/main.3c55ea03.chunk.js"
+  ]
+}
