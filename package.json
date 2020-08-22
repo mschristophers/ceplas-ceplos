@@ -2,7 +2,7 @@
   "name": "ceplas-ceplos",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ceplasceplos.github.io/",
+  "homepage": "https://manuelstefan150.github.io/ceplas-ceplos/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
     "@fortawesome/free-solid-svg-icons": "^5.14.0",
@@ -13,7 +13,7 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "firebase": "^7.19.0",
-    "gh-pages": "^3.1.0",
+    "gh-pages": "^3.1.0", 
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-flip-move": "^3.0.4",
